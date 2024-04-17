@@ -6,6 +6,10 @@
     box-sizing: border-box;
     font-family: "Roboto Mono", monospace;
 }
+marquee{
+    color: #00bcd4;
+    margin: 0;
+}
 
 /* 2.Styling Main Section */
 .main {
